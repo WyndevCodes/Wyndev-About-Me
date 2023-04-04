@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wyndev!
+- 👋 Hi, I’m @WyndevCodes!
 - 👀 I’m interested in creating a fun experience for players on Minecraft servers.
 - 💞️ I mainly work on Minecraft server development using Java.
 - 📫 If you want to reach me, contact me on Discord (Wyndev#6412)!
